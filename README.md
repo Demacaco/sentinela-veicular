@@ -2,7 +2,7 @@
 
 > Ferramenta de auditoria, diagnóstico e neutralização de malwares pré-instalados (DoFun, TWCore, JarService, BadBox) em centrais multimídia Android.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Status: Em Desenvolvimento](https://img.shields.io/badge/status-ativo-brightgreen.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
