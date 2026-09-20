@@ -1,0 +1,41 @@
+{
+    "_meta": {
+        "versao": "1.1.0",
+        "atualizado_em": "2025-09-20",
+        "fontes": [
+            "Kaspersky BadBox Report 2024",
+            "Human Security Satori Threat Intelligence",
+            "Canaltech - Vírus no Carro (2025)"
+        ]
+    },
+    "dominios_c2": [
+        "cardoor.cn",
+        "admin.uipoxy.com",
+        "uipoxy.com",
+        "dofun.com",
+        "twcore.net"
+    ],
+    "ips_c2": [
+        "144.217.243.201",
+        "198.244.238.165"
+    ],
+    "pacotes_maliciosos": [
+        "com.tw.core",
+        "com.tw.core.service",
+        "com.jar.service",
+        "com.moyu.service"
+    ],
+    "servicos_suspeitos": [
+        "JarService",
+        "PushService",
+        "DownloaderService",
+        "TWCoreService",
+        "MoYuService",
+        "SilentInstaller"
+    ],
+    "caminhos_deposito": [
+        "/sdcard/Android/data/com.tw.core/cache/push/apk/",
+        "/data/data/com.tw.core/cache/apk/",
+        "/sdcard/.dofun_cache/"
+    ]
+}
